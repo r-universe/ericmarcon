@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dbmss",
+    "oncran": true
+  },
+  {
+    "package": "entropart",
+    "oncran": true
+  },
+  {
+    "package": "memoiR",
+    "oncran": true
+  }
+]
