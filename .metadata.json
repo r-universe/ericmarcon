@@ -6,5 +6,9 @@
   {
     "package": "entropart",
     "oncran": true
+  },
+  {
+    "package": "memoiR",
+    "oncran": true
   }
 ]
