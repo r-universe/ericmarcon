@@ -13,8 +13,3 @@
 	url = https://github.com/ericmarcon/entropart
 	shallow = true
 	registered = true
-[submodule "memoiR"]
-	path = memoiR
-	url = https://github.com/ericmarcon/memoir
-	shallow = true
-	registered = true
