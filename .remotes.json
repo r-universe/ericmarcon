@@ -1,0 +1,8 @@
+[
+  {
+    "package": "spatstat.explore",
+    "url": "https://github.com/spatstat/spatstat.explore",
+    "via": ["dbmss"],
+    "from": "dbmss"
+  }
+]
