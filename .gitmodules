@@ -18,8 +18,23 @@
 	url = https://github.com/ericmarcon/memoir
 	shallow = true
 	registered = true
+[submodule "spatstat.data"]
+	path = spatstat.data
+	url = https://github.com/spatstat/spatstat.data
+	shallow = true
+	registered = false
 [submodule "spatstat.explore"]
 	path = spatstat.explore
 	url = https://github.com/spatstat/spatstat.explore
+	shallow = true
+	registered = false
+[submodule "spatstat.geom"]
+	path = spatstat.geom
+	url = https://github.com/spatstat/spatstat.geom
+	shallow = true
+	registered = false
+[submodule "spatstat.random"]
+	path = spatstat.random
+	url = https://github.com/spatstat/spatstat.random
 	shallow = true
 	registered = false
