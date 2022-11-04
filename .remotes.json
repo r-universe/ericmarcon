@@ -1,25 +1,7 @@
 [
   {
-    "package": "spatstat.data",
-    "url": "https://github.com/spatstat/spatstat.data",
-    "via": ["dbmss"],
-    "from": "dbmss"
-  },
-  {
     "package": "spatstat.explore",
     "url": "https://github.com/spatstat/spatstat.explore",
-    "via": ["dbmss"],
-    "from": "dbmss"
-  },
-  {
-    "package": "spatstat.geom",
-    "url": "https://github.com/spatstat/spatstat.geom",
-    "via": ["dbmss"],
-    "from": "dbmss"
-  },
-  {
-    "package": "spatstat.random",
-    "url": "https://github.com/spatstat/spatstat.random",
     "via": ["dbmss"],
     "from": "dbmss"
   }
