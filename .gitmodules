@@ -18,8 +18,3 @@
 	url = https://github.com/ericmarcon/memoir
 	shallow = true
 	registered = true
-[submodule "spatstat.explore"]
-	path = spatstat.explore
-	url = https://github.com/spatstat/spatstat.explore
-	shallow = true
-	registered = false
