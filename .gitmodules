@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "memoiR"]
-	path = memoiR
-	url = https://github.com/ericmarcon/memoir
-	shallow = true
-	registered = true
 [submodule "dbmss"]
 	path = dbmss
 	url = https://github.com/ericmarcon/dbmss
@@ -16,5 +11,10 @@
 [submodule "entropart"]
 	path = entropart
 	url = https://github.com/ericmarcon/entropart
+	shallow = true
+	registered = true
+[submodule "memoiR"]
+	path = memoiR
+	url = https://github.com/ericmarcon/memoir
 	shallow = true
 	registered = true
