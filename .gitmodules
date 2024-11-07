@@ -5,6 +5,9 @@
 [submodule "dbmss"]
 	path = dbmss
 	url = https://github.com/ericmarcon/dbmss
+[submodule "divent"]
+	path = divent
+	url = https://github.com/ericmarcon/divent
 [submodule "entropart"]
 	path = entropart
 	url = https://github.com/ericmarcon/entropart
